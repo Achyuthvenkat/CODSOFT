@@ -29,3 +29,11 @@ public class StudentGradeCalculator {
         sc.close();
     }
 }
+📊 Student Grade Calculator in Java
+Proud to share my second task for the Java Development Internship at CodSoft!
+
+This program takes marks of multiple subjects, calculates the total, average percentage, and assigns a grade based on performance. It helped me practice control structures, loops, and logic implementation in Java.
+
+Excited to keep building and growing through this internship!
+
+#codsoft #java #javaproject #internship #studentgradecalculator #programming #softwaredevelopment
